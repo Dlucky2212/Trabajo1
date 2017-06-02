@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1496255814 source:c:\users\paoloandres\desktop\hola\main.cpp
+	<iostream>
+	"Persona.h"
+	"Conserje.h"
+	"Gerente.h"
+	<string.h>
+	"Birthday.h"
+	<vector>
+
+1496256033 source:c:\users\paoloandres\desktop\hola\src\birthday.cpp
+	"Birthday.h"
+	<stdlib.h>
+
+1496157599 c:\users\paoloandres\desktop\hola\include\birthday.h
+	<iostream>
+
+1496255772 source:c:\users\paoloandres\desktop\hola\src\conserje.cpp
+	"Conserje.h"
+	"Persona.h"
+	"Birthday.h"
+	<string.h>
+	<iostream>
+
+1496253774 c:\users\paoloandres\desktop\hola\include\conserje.h
+	"Persona.h"
+	<string.h>
+	<iostream>
+
+1496254172 c:\users\paoloandres\desktop\hola\include\persona.h
+	"Birthday.h"
+	<iostream>
+	<string.h>
+
+1496255149 source:c:\users\paoloandres\desktop\hola\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	<string.h>
+
+1496255772 source:c:\users\paoloandres\desktop\hola\src\gerente.cpp
+	"Gerente.h"
+	"Persona.h"
+	"Birthday.h"
+	<iostream>
+	<string.h>
+
+1496253774 c:\users\paoloandres\desktop\hola\include\gerente.h
+	"Persona.h"
+	<string.h>
+	<iostream>
+
